@@ -1,0 +1,25 @@
+.app-wrapper {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  // justify-content: center;
+  align-items: center;
+  margin: auto;
+  border: 1px solid grey;
+
+  .navbar-container {
+    width: inherit;
+    height: 50px;
+    background-color: #c3dea4;
+    margin-bottom: 30px;
+  }
+
+  .post-item {
+    margin-bottom: 20px;
+  }
+
+  .comment-input-container {
+    margin-top: 20px;
+  }
+}
