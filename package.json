@@ -34,6 +34,6 @@
   },
   "devDependencies": {
     "inquirer": "^7.0.0",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
